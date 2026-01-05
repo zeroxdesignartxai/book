@@ -45,3 +45,4 @@ Codex helps creators convert raw documents into a professional book package with
 
 ## Run Log
 - Initialized MVP scaffold with API/Web/Worker packages.
+- Reworked lint scripts to use TypeScript typechecking to avoid blocked ESLint plugin installs.
